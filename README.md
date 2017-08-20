@@ -1,5 +1,6 @@
-# Prediction Modelling for Students' Grades
+# Prediction Modelling for Students' Marks with ficticious sample data
 
-This is code for the paper "Contrasting Prediction Methods for Early Warning Systems at Undergraduate Level".
-
+This repository conatins code for the paper "Contrasting Prediction Methods for Early Warning Systems at Undergraduate Level".
 The paper is available on arXiv at:
+
+Fictitious sample data sets have been included to use with code.
